@@ -17,5 +17,5 @@ In this project a java based application (VProfile) has been lifted and then shi
 
 # Architectural Design 
 
-![!](https://github.com/Anuragkt3/AWS-Lift-Shift-Java-Application/issues/1#issue-1583590750)
+![AWS L S](https://user-images.githubusercontent.com/108458548/218660780-90302d87-cf4d-46f4-80f6-198be637dc6d.png)
 
